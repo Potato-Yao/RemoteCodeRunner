@@ -1,0 +1,7 @@
+{
+  "python_command":"python3",
+  "host_name":"potato-ubuntu",
+  "host_ip":"127.0.0.1",
+  "host_passwd":"password",
+  "remote_path": "/home/potato-ubuntu/code/remote-code"
+}
